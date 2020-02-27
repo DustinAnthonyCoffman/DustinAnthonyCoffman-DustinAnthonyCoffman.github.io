@@ -4687,3 +4687,8 @@ input, select, textarea {
 		}
 
 	}
+
+	.headshot {
+	    height: 712px;
+    	width: 605px;
+	}
